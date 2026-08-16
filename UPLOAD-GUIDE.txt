@@ -1,0 +1,28 @@
+SANJU ONE WAY CAB SERVICE - COMPLETE WEBSITE
+
+Included:
+- index.html
+- style.css
+- script.js
+- README.txt
+- This upload guide
+
+HOSTING:
+1. Extract this ZIP.
+2. Open the extracted folder.
+3. Upload index.html, style.css and script.js directly into public_html.
+4. Do NOT put index.html inside another folder.
+5. Open your domain.
+
+CONTACT:
+8271478857
+
+ROUTES & PRICES:
+Patna to Muzaffarpur - Rs. 1,699
+Patna to Darbhanga - Rs. 2,499
+Patna to Madhubani - Rs. 3,499
+Patna to Samastipur - Rs. 1,899
+Patna to Motihari - Rs. 2,899
+Patna to Siwan - Rs. 2,499
+Patna to Chapra - Rs. 1,799
+Patna to Gaya - Rs. 2,499
