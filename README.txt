@@ -1,4 +1,13 @@
-SANJU ONE WAY CAB SERVICE - WEBSITE
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FH348HG5Y8">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FH348HG5Y8');
+</script>SANJU ONE WAY CAB SERVICE - WEBSITE
 
 Files:
 - index.html
